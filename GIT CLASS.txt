@@ -1,0 +1,1 @@
+git add * (to add all the files in folder)
